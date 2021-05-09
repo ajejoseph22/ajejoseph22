@@ -6,5 +6,4 @@ I'm Joseph, a Fullstack Software Engineer with interests in frontend, backend an
 - 👯 I’m open to collaborate on interesting projects
 - 💬 Ask me about React, TypeScript, Node, Angular, AWS
 - 📫 How to reach me: ajejoseph22@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play the guitar and sing pretty decently :)
