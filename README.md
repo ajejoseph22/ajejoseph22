@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Joseph, a Fullstack Software Engineer with interests in frontend, backend and cloud-native technologies.
+I'm Joseph, a Fullstack Software Engineer with interests in Web3 and cloud-native technologies.
 
 - 🔭 I’m currently working full-time at [Clipboard Health](https://clipboardhealth.com) as a Senior Software Engineer
 - 👯 I’m open to collaborate on interesting projects
